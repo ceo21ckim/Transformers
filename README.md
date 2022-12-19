@@ -1,7 +1,4 @@
 # Transformers
-
-..
-
 ## Requirements
 
 ```
