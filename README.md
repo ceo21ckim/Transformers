@@ -8,4 +8,6 @@ pandas==1.3.5
 sentencepiece==0.1.97
 datasets==2.7.1
 matplotlib==3.5.3
+umap-learn
+bertviz
 ```
